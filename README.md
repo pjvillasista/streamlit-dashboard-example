@@ -38,4 +38,3 @@ This dashboard was inspired by and created with the help of the following tutori
 
 - [Streamlit Tutorial on YouTube](https://www.youtube.com/watch?v=asFqpMDSPdM&ab_channel=Streamlit): This tutorial provided valuable insights into Streamlit capabilities and dashboard design.
 - [Crafting a Dashboard App in Python Using Streamlit - Streamlit Blog](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/): This blog post offered a great walkthrough of building dashboard apps with Streamlit, influencing the structure and features of this application.
-Based on the dashboard's functionality and the focus on data analytics, I'll update the `README.md` content accordingly. Here is your revised `README.md`:
