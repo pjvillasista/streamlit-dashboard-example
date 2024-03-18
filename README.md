@@ -1,7 +1,7 @@
 ﻿# US Population Dashboard
 ![image](https://github.com/pjvillasista/streamlit-dashboard-example/assets/93170137/f00945ab-373a-4f75-bbd9-4ee759dd5694)
 
-This Streamlit application visualizes the US population data from 2010 to 2019.
+This Streamlit Web application visualizes the US population data from 2010 to 2019.
 
 ## Features
 
